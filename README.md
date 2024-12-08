@@ -17,8 +17,7 @@ The dataset used during the workshop can be downloaded from the following link:
 ---
 
 ## 📊 Kaggle Notebook
-Explore the AIML workshop notebook hosted on Kaggle:  
-[Kaggle Notebook Link](https://www.kaggle.com/code/palassaha/heart-disease-3-0)
+Explore the AIML workshop notebook hosted on Kaggle:[Kaggle Notebook Link](https://www.kaggle.com/code/palassaha/heart-disease-3-0)
 
 ---
 
