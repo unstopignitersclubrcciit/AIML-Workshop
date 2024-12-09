@@ -1,0 +1,12 @@
+# Ignore virtual environment
+myenv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore PyCharm project files
+.idea/
+
+# Ignore unnecessary system files
+.DS_Store
